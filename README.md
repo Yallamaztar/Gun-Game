@@ -1,4 +1,4 @@
-# Custom Gun Game for Plutonium T6
+# Custom Gun Game (poc)
 
 A Gun Game gamemode for Plutonium T6 (Black Ops 2) **made entirely in python**
 
